@@ -4,5 +4,6 @@ public class Main {
         System.out.println("Change one first time");
         System.out.println("second time change");
         System.out.println("third time change");
+        System.out.println("forth time changes");
     }
 }
